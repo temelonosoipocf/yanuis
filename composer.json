@@ -1,0 +1,24 @@
+{
+    "name": "pokemon-go-joystick-hack/pokemon-go-spoofing-ios",
+    "description": "Pokemon Go Spoofing IOS Newest Pokemon Go Hack IOS 2019 ✅ Pokemon Go Spoofing - Ultimate Pokemon Go Joystick Hack iOS/Android  Newest Pokemon Go Hack 2019 ✅ Pokemon Go Spoofing with Joystick iOS/Android Hey! In this video I will be explaining how to spoof ...Wassup Pokemon Go Players I`am Back After Many Years With Awesome Trick For Pokemon GO.As Tittle Said I ... *UPDATED* Pokemon GO Hack : SPOOFING NO BAN / Android & iOS GUIDE !!  ",
+    "homepage": "https://github.com/fcjc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pokemon Go Spoofing IOS Now",
+            "homepage": "https://appsinject.com/pokemon/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
